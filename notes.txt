@@ -2,3 +2,5 @@ initial commit
 hotfix app crash fix
 Added readme and updated app
 set up develop
+started writing signup code
+finished writing signup code
