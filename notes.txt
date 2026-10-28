@@ -4,3 +4,4 @@ Added readme and updated app
 set up develop
 started writing signup code
 finished writing signup code
+released v1
